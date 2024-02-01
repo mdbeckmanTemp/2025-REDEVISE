@@ -71,7 +71,7 @@ Beckman, M. D., & delMas, R. C. (2018). Statistics students' identification of i
 ## Contact
 
 Matthew Beckman  
-Assoc Research Professor | Dept of Statistics 
+Assoc Research Professor | Dept of Statistics  
 Assoc Director for Research | CAUSE (<https://causeweb.org/>) 
 
 office: 421C Thomas Building  
