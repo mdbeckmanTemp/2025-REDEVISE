@@ -84,8 +84,6 @@ Beckman, M. D., & delMas, R. C. (2018). Statistics students' identification of i
 
 
 
-
-
 ### Contact
 
 Matthew Beckman  
@@ -95,5 +93,11 @@ Director | CAUSE (<https://causeweb.org/>)
 UoA office: 303S-375  
 email: mdb268 [at] psu [dot] edu  
 webpage: <https://mdbeckman.github.io/>
+
+</br>
+
+### QR Code for this page
+
+![https://mdbeckmantemp.github.io/2025-REDEVISE/](docs/QR_redevise.png)
 
 
